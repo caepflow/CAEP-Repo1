@@ -1,7 +1,7 @@
 # Repo1
 This project is created using CaepFlow by CodeArchitects.
 ## Description
-Descrizione
+Descrizione aggiornare
 ## Getting Started
 
 ### Prerequisites
